@@ -1,0 +1,16 @@
+{
+  "name": "l5todo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "directory": "vendor/bower_components",
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5"
+  }
+}
